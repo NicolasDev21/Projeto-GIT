@@ -1,19 +1,21 @@
 body{
 
-    background-color: yellow;
+    background-color: #aea1e8;
 
 }
 
 h1{
 
-    color: red;
+    color: #311b93;
     text-align: center;
-    border-bottom: 5px solid red;
+    font-family: trebuchet MS;
+    border-bottom: 5px solid #311b93;;
 
 }
 
 .botao{
 
     border: none;
+    font-family: trebuchet MS;
     
 }
